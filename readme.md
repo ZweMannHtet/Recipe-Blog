@@ -1,1 +1,1 @@
-<h1>Alieo's Food Blog Project with Node.js</h1>
+<h1>Food Blog Project with Node.js</h1>
